@@ -1,0 +1,46 @@
+[
+  {
+    "title": "5_Sterne_Danke",
+    "content": "Herzlichen Dank für Ihre 5 Sterne Bewertung. Wir f…ren nächsten Besuch bei uns. ↵Freundliche Grüsse↵"
+  },
+  {
+    "title": "5_Sterne_Danke & Lob",
+    "content": "Für Ihre 5 Sterne Bewertung und das tolle Lob dank…n nächsten Besuch bei uns.↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke",
+    "content": "Lieben Dank für Ihre Topbewertung und die Zeit die…ten Besuch freuen wir uns.↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke & Lob",
+    "content": "Es freut uns sehr, dass wir Sie zu unseren treuen …n nächsten Besuch bei uns!↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_Service & Bedienung",
+    "content": "Es freut uns sehr, dass Sie mit dem Service und un… Ihre positive Mitteilung.↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_wohlfühlen",
+    "content": "↵Lieben Dank für Ihre positive Bewertung und die Z…e sich bei uns wohlfühlen!↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_Treue_Beratung & Bedienung_wohlfühlen",
+    "content": "Vielen lieben Dank für Ihre tolle Bewertung und Ih…n nächsten Besuch bei uns!↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_Kompliment_Team",
+    "content": "Wow! Vielen lieben Dank für das tolle Kompliment a…ei uns begrüssen zu dürfen.↵↵Freundliche Grüsse↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_Flexibilität Onlinebuchung",
+    "content": "Viele unserer Kunden schätzen unser Onlinebuchungs…en.↵↵Bis zum nächsten Mal.↵↵Freundliche Grüsse↵↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_zufriedener Kunde_Farbveränderung",
+    "content": "Die Wünsche unserer Kunden zu erfüllen und sie glü… uns willkommen zu heissen!↵↵Freundliche Grüsse↵↵"
+  },
+  {
+    "title": "5_Sterne_Danke_zufriedener Kunde_Haarschnitt",
+    "content": "Die Wünsche unserer Kunden zu erfüllen und sie glü…i uns willkommen zu heissen!↵↵Freundliche Grüsse "
+  }
+]
