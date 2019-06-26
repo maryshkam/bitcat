@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "nodemon index.js",
+    "debug": "nodemon --inspect index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.5"
+    "express-fileupload": "^1.1.5",
+    "nodemon": "^1.18.4"
   }
 }
